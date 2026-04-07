@@ -8,7 +8,7 @@ import seaborn as sns
 # 1. PAGE SETUP & UI
 # ==============================================================================
 st.set_page_config(page_title="Spain Debt Sustainability Model", layout="wide")
-st.title("🇪🇸 Sovereign Debt Sustainability Dashboard")
+st.title("Sovereign Debt Sustainability Dashboard")
 st.markdown("""
 Explore different macroeconomic shocks, fiscal adjustments, and the 'penalty of delay' using the parameters on the left.
 *Navigate the different analyses using the tabs below.*
